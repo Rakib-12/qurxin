@@ -13,9 +13,9 @@ echo -e "Created By \e[@Error❌"
 
 echo "----------------------------" | lolcat
 
-echo "𓆩🇧🇩  ! 🌸 毎日死ぬ 🌸𓆪" | lolcat
+echo "𓆩  ! 🌸 毎日死ぬ 🌸𓆪" | lolcat
 
-figlet Senpai | lolcat
+figlet 404 | lolcat
 
 
 
