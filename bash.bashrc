@@ -8,14 +8,14 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 
 clear
 
-echo -e "Created By \e[@Error❌"
+echo -e "❌\e[@Kirito_x_0 🥱"
 
 
 echo "----------------------------" | lolcat
 
 echo "𓆩  ! 🌸 毎日死ぬ 🌸𓆪" | lolcat
 
-figlet 404 | lolcat
+figlet #SU | lolcat
 
 
 
