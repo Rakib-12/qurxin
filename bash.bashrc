@@ -15,7 +15,7 @@ echo "----------------------------" | lolcat
 
 echo "𓆩  ! 🌸 毎日死ぬ 🌸𓆪" | lolcat
 
-figlet #SU | lolcat
+figlet SU | lolcat
 
 
 
